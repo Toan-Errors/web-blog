@@ -2,7 +2,7 @@
 
 const nextConfig = {
   images: {
-    domains: ['mdbcdn.b-cdn.net'],
+    domains: ['mdbcdn.b-cdn.net', 'source.unsplash.com'],
   },
 }
 
