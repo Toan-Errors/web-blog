@@ -37,4 +37,8 @@ export const PATHS = {
     root: pathJoin(BASE_URL, "groups"),
     detail: pathJoin(BASE_URL, "groups", ":id"),
   },
+  comics: {
+    root: pathJoin(BASE_URL, "comics"),
+    detail: pathJoin(BASE_URL, "comics", ":id"),
+  },
 };

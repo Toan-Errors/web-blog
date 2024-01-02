@@ -34,6 +34,18 @@ export const NAVBAR: NavItem[] = [
       />
     ),
   },
+  {
+    name: "Truyện tranh",
+    href: PATHS.comics.root,
+    current: false,
+    icon: (
+      <path
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        d="M13 10V3L4 14h7v7l9-11h-7z"
+      />
+    ),
+  },
 ];
 
 export const LOGIN_NAVBAR = [
